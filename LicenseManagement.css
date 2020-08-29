@@ -1,0 +1,32 @@
+/* .addUser{
+    text-align: right;
+} */
+/* .tabulator-row-even{
+    background-color: rgb(232, 232, 233);
+} */
+/* .react-table{
+    padding-bottom: 30px;
+} */
+/* .react-table {
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    padding: 5px 5px 5px 5px;
+     margin-left: 10rem; 
+  } */
+  /* .tabulator-header{
+    padding-bottom: 30px;
+} */
+.scroll{
+     margin: 1px,1px; 
+     padding: 1px; 
+     width: 40px; 
+    height: 50px;
+    overflow-x: hidden;
+    text-align: center; 
+  
+}
+
+.react-table {
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    padding: 5px 5px 5px 5px;
+  }
+
